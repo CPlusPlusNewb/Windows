@@ -1,0 +1,120 @@
+[System Process]	0	TCPV6	[fe80:0:0:0:984:45ed:297:46b4]	50397	[fe80:0:0:0:fda9:ed5e:f6f5:debd]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[fe80:0:0:0:984:45ed:297:46b4]	50398	[fe80:0:0:0:fda9:ed5e:f6f5:debd]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[fe80:0:0:0:984:45ed:297:46b4]	50399	[fe80:0:0:0:fda9:ed5e:f6f5:debd]	wsd	TIME_WAIT										
+[System Process]	0	TCP	minecrafttime	50467	51.143.106.177	https	TIME_WAIT										
+[System Process]	0	TCP	minecrafttime	50402	ec2-34-223-167-220.us-west-2.compute.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	minecrafttime	50442	ec2-3-223-66-72.compute-1.amazonaws.com	https	TIME_WAIT	3	1,486	5	4,142						
+[System Process]	0	TCP	minecrafttime	50450	ec2-3-223-66-72.compute-1.amazonaws.com	https	TIME_WAIT										
+firefox.exe	2812	TCP	MinecraftTime	49932	localhost	49933	ESTABLISHED			8,029	8,029		45		45		
+firefox.exe	2812	TCP	MinecraftTime	49933	localhost	49932	ESTABLISHED	8,029	8,029			45		45			
+firefox.exe	5256	TCP	MinecraftTime	49934	localhost	49935	ESTABLISHED			13	13						
+firefox.exe	5256	TCP	MinecraftTime	49935	localhost	49934	ESTABLISHED	13	13								
+firefox.exe	2240	TCP	MinecraftTime	49939	localhost	49940	ESTABLISHED										
+firefox.exe	2240	TCP	MinecraftTime	49940	localhost	49939	ESTABLISHED										
+firefox.exe	2812	TCP	minecrafttime	49946	ec2-52-24-186-236.us-west-2.compute.amazonaws.com	https	ESTABLISHED	2	72	2	64						
+firefox.exe	4132	TCP	MinecraftTime	49951	localhost	49952	ESTABLISHED			9,712	9,712		12		12		
+firefox.exe	4132	TCP	MinecraftTime	49952	localhost	49951	ESTABLISHED	9,712	9,712			12		12			
+firefox.exe	2812	TCP	minecrafttime	50211	104.16.203.237	https	ESTABLISHED	173	29,402	1,154	1,322,054	356	413	2	2		
+firefox.exe	1572	TCP	MinecraftTime	50383	localhost	50384	ESTABLISHED			1,724	1,724		117		117		
+firefox.exe	1572	TCP	MinecraftTime	50384	localhost	50383	ESTABLISHED	1,724	1,724			117		117			
+firefox.exe	2812	TCP	minecrafttime	50406	any-in-2678.1e100.net	https	ESTABLISHED	3	1,009	9	6,094						
+firefox.exe	3476	TCP	MinecraftTime	50409	localhost	50410	ESTABLISHED			2	2						
+firefox.exe	3476	TCP	MinecraftTime	50410	localhost	50409	ESTABLISHED	2	2								
+firefox.exe	2812	TCP	minecrafttime	50412	any-in-2678.1e100.net	https	ESTABLISHED	11	12,819	177	223,919						
+firefox.exe	2812	TCP	minecrafttime	50417	any-in-2678.1e100.net	https	ESTABLISHED	3	1,748	6	5,826						
+firefox.exe	2812	TCP	minecrafttime	50418	any-in-2678.1e100.net	https	ESTABLISHED	3	1,877	6	5,710						
+firefox.exe	2812	TCP	minecrafttime	50419	any-in-2678.1e100.net	https	ESTABLISHED	6	6,053	16	11,847						
+firefox.exe	2812	TCP	minecrafttime	50420	sea30s02-in-f3.1e100.net	https	ESTABLISHED	4	896	3	807						
+firefox.exe	2812	TCP	minecrafttime	50421	sea15s11-in-f14.1e100.net	https	ESTABLISHED	4	896	3	807						
+firefox.exe	2812	TCP	minecrafttime	50423	den03s10-in-f46.1e100.net	https	ESTABLISHED	3	1,078	9	7,988						
+firefox.exe	2812	TCP	minecrafttime	50424	den03s10-in-f46.1e100.net	https	ESTABLISHED	3	1,078	8	7,687						
+firefox.exe	2812	TCP	minecrafttime	50425	den03s10-in-f46.1e100.net	https	ESTABLISHED	3	1,078	9	8,040						
+firefox.exe	2812	TCP	minecrafttime	50427	den03s10-in-f46.1e100.net	https	ESTABLISHED	3	1,078	8	7,776						
+firefox.exe	2812	TCP	minecrafttime	50428	den03s10-in-f46.1e100.net	https	ESTABLISHED	3	1,078	9	8,914						
+firefox.exe	2812	TCP	minecrafttime	50429	sea30s01-in-f2.1e100.net	https	ESTABLISHED	8	1,839	10	5,485						
+firefox.exe	2812	TCP	minecrafttime	50430	sea30s01-in-f2.1e100.net	https	ESTABLISHED	8	1,377	6	4,428						
+firefox.exe	2812	TCP	minecrafttime	50433	185.199.108.154	https	ESTABLISHED	34	3,914	377	525,669						
+firefox.exe	2812	TCP	minecrafttime	50434	185.199.108.154	https	ESTABLISHED	15	2,107	506	714,887		68,864		48		
+firefox.exe	2812	TCP	minecrafttime	50435	185.199.110.153	https	ESTABLISHED	12	1,973	1,042	1,512,913						
+firefox.exe	2812	TCP	minecrafttime	50441	ec2-3-223-66-72.compute-1.amazonaws.com	https	ESTABLISHED	5	3,766	7	5,258	1,131	558	1	1		
+firefox.exe	2812	TCP	minecrafttime	50443	sea15s11-in-f14.1e100.net	https	ESTABLISHED	15	2,943	15	4,446	966	414	6	6		
+firefox.exe	2812	TCP	minecrafttime	50444	lb-192-30-255-116-sea.github.com	https	ESTABLISHED	5	10,122	8	6,407	1,572	949	1	1		
+firefox.exe	2812	TCP	minecrafttime	50448	lb-192-30-255-113-sea.github.com	https	ESTABLISHED										
+firefox.exe	2812	TCP	minecrafttime	50449	ec2-3-223-66-72.compute-1.amazonaws.com	https	ESTABLISHED										
+firefox.exe	2812	TCP	minecrafttime	50455	192.30.255.112	https	ESTABLISHED										
+firefox.exe	2812	TCP	minecrafttime	50456	lb-192-30-255-112-sea.github.com	https	ESTABLISHED										
+firefox.exe	2812	TCP	minecrafttime	50465	151.101.52.133	https	ESTABLISHED										
+firefox.exe	2812	TCP	minecrafttime	50472	151.101.52.133	https	ESTABLISHED										
+firefox.exe	2812	TCP	minecrafttime	50475	lb-192-30-255-112-sea.github.com	https	ESTABLISHED										
+firefox.exe	2812	TCP	minecrafttime	50479	lb-140-82-114-25-iad.github.com	https	ESTABLISHED										
+lsass.exe	632	TCP	MinecraftTime	49664	MinecraftTime	0	LISTENING										
+lsass.exe	632	TCPV6	minecrafttime	49664	minecrafttime	0	LISTENING										
+services.exe	608	TCP	MinecraftTime	49670	MinecraftTime	0	LISTENING										
+services.exe	608	TCPV6	minecrafttime	49670	minecrafttime	0	LISTENING										
+spoolsv.exe	2592	TCP	MinecraftTime	49669	MinecraftTime	0	LISTENING										
+spoolsv.exe	2592	TCPV6	minecrafttime	49669	minecrafttime	0	LISTENING										
+svchost.exe	868	TCP	MinecraftTime	epmap	MinecraftTime	0	LISTENING										
+svchost.exe	424	TCP	MinecraftTime	ms-wbt-server	MinecraftTime	0	LISTENING										
+svchost.exe	2000	TCP	MinecraftTime	5040	MinecraftTime	0	LISTENING										
+svchost.exe	1172	TCP	MinecraftTime	49666	MinecraftTime	0	LISTENING										
+svchost.exe	1548	TCP	MinecraftTime	49667	MinecraftTime	0	LISTENING										
+svchost.exe	2024	TCP	MinecraftTime	49668	MinecraftTime	0	LISTENING										
+svchost.exe	2964	TCP	minecrafttime	49690	52.230.222.68	https	ESTABLISHED	1	99	1	120						
+svchost.exe	4052	TCP	MinecraftTime	ms-do	MinecraftTime	0	LISTENING										
+svchost.exe	2484	UDP	minecrafttime	ssdp	*	*				16	2,752						
+svchost.exe	2484	UDP	MinecraftTime	ssdp	*	*											
+svchost.exe	424	UDP	MinecraftTime	ms-wbt-server	*	*											
+svchost.exe	3608	UDP	MinecraftTime	ws-discovery	*	*				28	29,276						
+svchost.exe	3516	UDP	MinecraftTime	ws-discovery	*	*				28	29,276						
+svchost.exe	3516	UDP	MinecraftTime	ws-discovery	*	*											
+svchost.exe	3608	UDP	MinecraftTime	ws-discovery	*	*											
+svchost.exe	2000	UDP	MinecraftTime	5050	*	*											
+svchost.exe	1884	UDP	MinecraftTime	5353	*	*		24	756	24	756						
+svchost.exe	1884	UDP	MinecraftTime	llmnr	*	*		2	186	176	4,916						
+svchost.exe	3516	UDP	MinecraftTime	50824	*	*											
+svchost.exe	2484	UDP	minecrafttime	55677	*	*											
+svchost.exe	2484	UDP	MinecraftTime	55678	*	*											
+svchost.exe	3036	UDP	MinecraftTime	59478	*	*											
+svchost.exe	3608	UDP	MinecraftTime	59953	*	*											
+svchost.exe	868	TCPV6	minecrafttime	epmap	minecrafttime	0	LISTENING										
+svchost.exe	424	TCPV6	minecrafttime	ms-wbt-server	minecrafttime	0	LISTENING										
+svchost.exe	4052	TCPV6	minecrafttime	ms-do	minecrafttime	0	LISTENING										
+svchost.exe	1172	TCPV6	minecrafttime	49666	minecrafttime	0	LISTENING										
+svchost.exe	1548	TCPV6	minecrafttime	49667	minecrafttime	0	LISTENING										
+svchost.exe	2024	TCPV6	minecrafttime	49668	minecrafttime	0	LISTENING										
+svchost.exe	2484	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	2484	UDPV6	[fe80:0:0:0:984:45ed:297:46b4]	1900	*	*											
+svchost.exe	424	UDPV6	minecrafttime	ms-wbt-server	*	*											
+svchost.exe	3516	UDPV6	minecrafttime	3702	*	*											
+svchost.exe	3516	UDPV6	minecrafttime	3702	*	*											
+svchost.exe	3608	UDPV6	minecrafttime	3702	*	*											
+svchost.exe	3608	UDPV6	minecrafttime	3702	*	*											
+svchost.exe	1884	UDPV6	minecrafttime	5353	*	*											
+svchost.exe	1884	UDPV6	minecrafttime	5355	*	*											
+svchost.exe	3516	UDPV6	minecrafttime	50825	*	*											
+svchost.exe	2484	UDPV6	[fe80:0:0:0:984:45ed:297:46b4]	55675	*	*											
+svchost.exe	2484	UDPV6	[0:0:0:0:0:0:0:1]	55676	*	*											
+svchost.exe	3608	UDPV6	minecrafttime	59954	*	*											
+System	4	TCP	minecrafttime	netbios-ssn	MinecraftTime	0	LISTENING										
+System	4	TCP	minecrafttime	49930	hondo	microsoft-ds	ESTABLISHED										
+System	4	TCP	minecrafttime	49995	ulises	microsoft-ds	ESTABLISHED										
+System	4	TCP	minecrafttime	50017	jskye-win10vm_2	microsoft-ds	ESTABLISHED										
+System	4	TCP	minecrafttime	50027	evanvm	microsoft-ds	ESTABLISHED										
+System	4	TCP	minecrafttime	50048	thor	microsoft-ds	ESTABLISHED	1	72	1	72						
+System	4	TCP	MinecraftTime	microsoft-ds	MinecraftTime	0	LISTENING										
+System	4	TCP	MinecraftTime	wsd	MinecraftTime	0	LISTENING										
+System	4	UDP	minecrafttime	netbios-ns	*	*		18	1,007	195	10,717		150		3		
+System	4	UDP	minecrafttime	netbios-dgm	*	*		1	214	1	214						
+System	4	TCPV6	minecrafttime	microsoft-ds	minecrafttime	0	LISTENING										
+System	4	TCPV6	minecrafttime	wsd	minecrafttime	0	LISTENING										
+System	4	TCPV6	[fe80:0:0:0:984:45ed:297:46b4]	49929	[fe80:0:0:0:cd7c:f8c4:3a88:fd69]	microsoft-ds	ESTABLISHED	1	124	1	420						
+System	4	TCPV6	[fe80:0:0:0:984:45ed:297:46b4]	49994	[fe80:0:0:0:e9cf:62ff:87b6:d692]	microsoft-ds	ESTABLISHED	1	124	1	420						
+System	4	TCPV6	[fe80:0:0:0:984:45ed:297:46b4]	50002	[fe80:0:0:0:9938:838:af12:4a15]	microsoft-ds	ESTABLISHED	1	124	1	420						
+System	4	TCPV6	[fe80:0:0:0:984:45ed:297:46b4]	50016	[fe80:0:0:0:6da3:f14d:89b3:ace4]	microsoft-ds	ESTABLISHED	1	124	1	420						
+System	4	TCPV6	[fe80:0:0:0:984:45ed:297:46b4]	50026	[fe80:0:0:0:210f:b6b7:d13:d04a]	microsoft-ds	ESTABLISHED	1	124	1	420						
+System	4	TCPV6	[fe80:0:0:0:984:45ed:297:46b4]	50047	[fe80:0:0:0:e8e7:7ad3:3ed1:b7c7]	microsoft-ds	ESTABLISHED	1	124	1	420						
+wininit.exe	496	TCP	MinecraftTime	49665	MinecraftTime	0	LISTENING										
+wininit.exe	496	TCPV6	minecrafttime	49665	minecrafttime	0	LISTENING										
+WinStore.App.exe	6740	TCP	minecrafttime	49832	a23-60-72-189.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+WinStore.App.exe	6740	TCP	minecrafttime	49833	a23-60-72-189.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+WinStore.App.exe	6740	TCP	minecrafttime	49834	a23-60-72-189.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
